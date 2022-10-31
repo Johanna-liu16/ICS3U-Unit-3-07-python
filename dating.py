@@ -11,7 +11,7 @@ def main():
     # this is a number guessing game
 
     # input
-    print("This program checks if your suitable or not for dating.")
+    print("This program checks if you're suitable or not for dating.")
     str_user_age = input("Enter your age: ")
 
     # process
